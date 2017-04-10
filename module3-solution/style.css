@@ -1,0 +1,72 @@
+
+.content-text{
+	margin-top: 20px;
+	background: #dddddd;
+	height: auto;
+	text-align: justify;
+}
+
+.nav-color{
+	background: #dddddd;
+	border-color: #dddddd;
+}
+
+.name{
+	margin-top: -5px;
+	color: #999999;
+}
+
+.title-menu{
+	text-align: center;
+	margin-top: 17px;
+	color: #999999;
+}
+
+//////////////style nav-bar///////////////////////////////////
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	border-color: #ebebeb;
+}
+.navbar-inverse .navbar-toggle:hover {
+	background-color: #999999;
+}
+.navbar-toggle:focus{
+	background-color: #999999;
+
+}
+.navbar-inverse .navbar-toggle{
+	border-color: #999999;
+}
+
+.navbar-nav {
+    margin: -15.5px -15px;
+}
+
+a.nav-custom{
+	color: #ffff;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	border: 1px solid  #ebebeb;
+	text-align: center;
+	font-size:20px;
+	font-weight:600;
+}
+body {
+    padding-top: 70px; 
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+    
+
+.navbar-fixed-top .navbar-brand {
+    padding: 10px 15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; 
+
+    
+}
